@@ -1,5 +1,6 @@
 # BCI-SSVEP
-This topic is about  SSVEP-frequencies detection using Mr. Lin's mathematical technique (CCA) and improving it by machine learning methods such as SVM,KNN
+This  repository contains a Matlab implementation for distinguish SSVEP Frequency using Mr. Lin's mathematical technique (CCA) features extracted from EEG data and then improving its by machine learning methods such as SVM,KNN
+
 
 
 
