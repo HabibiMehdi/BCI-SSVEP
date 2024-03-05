@@ -4,6 +4,7 @@ SSVEP-CCA-Algorithm
 This repository contains an implementation of the Canonical Correlation Analysis (CCA) algorithm for frequency recognition in Steady-State Visual Evoked Potential (SSVEP)-based Brain-Computer Interfaces (BCIs).
 
 **Overview**
+
 Steady-State Visual Evoked Potentials (SSVEPs) are brain signals that occur in response to visual stimuli flickering at specific frequencies. SSVEP-based BCIs use these signals to detect the frequency at which the user is attending, allowing for hands-free communication and control.
 
 The CCA algorithm is a promising approach for frequency recognition in SSVEP-based BCIs, offering advantages such as improved accuracy, robustness to noise, and the ability to utilize harmonic frequencies as stimuli.
