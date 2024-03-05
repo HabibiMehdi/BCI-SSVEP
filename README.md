@@ -25,4 +25,5 @@ Bin, G., Gao, X., Yan, Z., Hong, B., & Gao, S. (2009). An online multi-channel S
 
 
 
-![canonical-correlation-analysis](https://github.com/thehabibimm/BCI-SSVEP/assets/123571190/71269eee-6312-4b96-8897-51876bc209a6)
+![image](https://github.com/thehabibimm/BCI-SSVEP/assets/123571190/1cd3e0f2-9fc6-4f89-97b8-73f6c3176da9)
+
