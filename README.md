@@ -26,4 +26,5 @@ Bin, G., Gao, X., Yan, Z., Hong, B., & Gao, S. (2009). An online multi-channel S
 
 
 ![image](https://github.com/thehabibimm/BCI-SSVEP/assets/123571190/1cd3e0f2-9fc6-4f89-97b8-73f6c3176da9)
+![image](https://github.com/thehabibimm/BCI-SSVEP/assets/123571190/97ceff7f-43f6-4489-afac-45bb7c8ec143)
 
