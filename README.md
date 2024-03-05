@@ -6,10 +6,10 @@ This repository contains an implementation of the Canonical Correlation Analysis
 **Overview**
 
 Steady-State Visual Evoked Potentials (SSVEPs) are brain signals that occur in response to visual stimuli flickering at specific frequencies. SSVEP-based BCIs use these signals to detect the frequency at which the user is attending, allowing for hands-free communication and control.
-
 The CCA algorithm is a promising approach for frequency recognition in SSVEP-based BCIs, offering advantages such as improved accuracy, robustness to noise, and the ability to utilize harmonic frequencies as stimuli.
 
 **Features**
+
 Frequency Recognition: Implements the CCA algorithm for extracting and recognizing SSVEP frequencies from multi-channel EEG data.
 Multi-Channel Support: Supports the use of multiple EEG channels for improved performance and robustness.
 Harmonic Frequency Detection: Can recognize SSVEP frequencies that are harmonics of the stimuli frequencies.
@@ -19,6 +19,7 @@ Parameter Optimization: Provides tools for optimizing parameters such as window 
 In additionaly this  repository contains a Matlab implementation for distinguish SSVEP Frequency using Mr. Lin's mathematical technique (CCA) features extracted from EEG data and then improving its by machine learning methods such as SVM,KNN
 
 **References**
+
 Lin, Z., Zhang, C., Wu, W., & Gao, X. (2006). Frequency recognition based on canonical correlation analysis for SSVEP-based BCIs. IEEE Transactions on Biomedical Engineering, 53(12), 2610-2614.
 Bin, G., Gao, X., Yan, Z., Hong, B., & Gao, S. (2009). An online multi-channel SSVEP-based brain–computer interface using a canonical correlation analysis method. Journal of Neural Engineering, 6(4), 046002.
 
